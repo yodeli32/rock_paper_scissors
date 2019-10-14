@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rock_paper_scissors</string>
+    <string name="Score">Player:  0 Computer:  0</string>
+</resources>
